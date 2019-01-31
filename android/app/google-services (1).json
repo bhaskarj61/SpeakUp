@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "45516131642",
+    "firebase_url": "https://speakup-5e1da.firebaseio.com",
+    "project_id": "speakup-5e1da",
+    "storage_bucket": "speakup-5e1da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45516131642:android:88a75b729fca061e",
+        "android_client_info": {
+          "package_name": "com.speakup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45516131642-o2341eo8pdpvp8224uvb6h35afoa5s1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwck4dWyPJdn0heNZazP44NdfNNEK44g0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
